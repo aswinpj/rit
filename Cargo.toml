@@ -1,0 +1,6 @@
+[package]
+name = "rit"
+version = "0.1.0"
+authors = ["Aswin P J <aswinpj@outlook.com>"]
+
+[dependencies]
